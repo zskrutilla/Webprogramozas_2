@@ -1,0 +1,22 @@
+[
+  {
+    "id": "p1",
+    "name": "Kávé",
+    "price_ft": 1890
+  },
+  {
+    "id": "p2",
+    "name": "Tea",
+    "price_ft": 1290
+  },
+  {
+    "id": "p3",
+    "name": "Bögre",
+    "price_ft": 990
+  },
+  {
+    "id": "p4",
+    "name": "Keksz",
+    "price_ft": 790
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "Kiss Anna",
+    "neptun": "ABC123",
+    "points": 87
+  },
+  {
+    "id": "2",
+    "name": "Nagy Béla",
+    "neptun": "QWE456",
+    "points": 72
+  },
+  {
+    "id": "3",
+    "name": "Szabó Csilla",
+    "neptun": "ZXC999",
+    "points": 95
+  }
+]
